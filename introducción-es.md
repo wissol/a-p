@@ -18,3 +18,17 @@ Sin embargo, A-P puede implementarse con Evernote, con un procesador de texto co
 
 Pero necesitar, necesitar, solo necesitas algo donde escribir, lo demás es secundario.
 
+## Los Documentos
+
+A-P permite --si quieres-- prescindir de herramientas tradicionales de productividad como el calendario o la agenda. En su lugar emplea tres documentos: Flujo, Memoria y Notas.
+
+<dl>
+<dt>Flujo</dt>
+    <dd>En este documento llevas cuenta de todos las acciones y proyectos activos, es decir, desde el mismo momento en que nacen, aunque sea como idea, hasta que se completan. Una vez terminado pasan a la Memoria.</dd>
+
+<dt>Memoria</dt>
+    <dd>En la memoria se registran todos los proyectos que han sido terminado completamente. Una vez algo se escribe en la memoria, jamás se borra de ahí, sino que los errores se salvan mediante anotaciones.</dd>
+
+<dt>Notas</dt>
+    <dd>El documento de Notas registra todas las notas necesarias para el trabajo ordinario ya mediante texto íntegro, resumen o un enlace.</dd>
+</dl>

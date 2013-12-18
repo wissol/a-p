@@ -115,7 +115,6 @@ La memoria es un diario donde anoto de forma exhaustiva y cronológica todas los
 
 <code><pre>
 18/12/13 Mié
-============
 SV Post Acciones y Proyectos //Para salir el 19/12/13 mié
 </pre></code><br>
 

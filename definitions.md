@@ -46,3 +46,17 @@
 <dd>This <em>bit</em> has been fully completed.</dd>
 
 </dl>
+
+<h2>Documents</h2>
+
+<dl>
+<dt>Flow</dt>
+<dd>This document contains the information of the all <em>active bits</em></dd>
+
+<dt>Memory</dt>
+<dd>This document gathers in chronological order all the <em>completed</em> <em>projects</em> which the user considers worthy to be kept</dd>
+
+<dt>Notes</dt>
+
+<dd>A kind of <em>One Big Text File</em> or a dedicated apllication storing all the bits of information required to complete the usual <em>bits</em> of work.</dd>
+</dl>

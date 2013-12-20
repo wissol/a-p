@@ -1,13 +1,17 @@
 <h2>Actions, Projects and Tasks</h2>
 
 <dl>
+<dt>Bit</dt>
+
+<dd>Any piece of work. <em>Actions, tasks and projects</em> are kinds of bits.</dd>
+
 <dt>Action</dt>
   
-<dd>A piece of work which is grouped into a <em>project</em></dd>
+<dd>A <em>bit</em> which is grouped into a <em>project</em>.</dd>
 
 <dt>Task</dt>
   
-<dd>Any action or set of actions that must be carried out according to a stablished procedure or standards</dd>
+<dd>Any <em>action</em> or set of <em>actions</em> that must be carried out according to a stablished procedure or standards</dd>
   
 <dt>Project</dt>
   
@@ -31,8 +35,14 @@
 
 <dt>To-Do</dt>
 
-<dt>Waiting-For</dt>
+<dd>This <em>bit</em> is ready to be done, though it has not been executed yet.
+
+<dt>Wait</dt>
+
+<dd>This <em>bit</em> cannot be carried out until some other <em>bit</em> is finished.</dd>
 
 <dt>Done</dt>
+
+<dd>This <em>bit</em> has been fully completed.</dd>
 
 </dl>

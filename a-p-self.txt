@@ -12,4 +12,4 @@ A-P language
     70 Notes Example = ToDo(21/12/13 Sat)
     80 Notes Format = ToDo(21/12/13 Sat)
     90 Translate to Spanish = Wait(bits above,21/12/13 Sat)
-    100 Tell the whole world all about A-P and be proud = Wait(bits above,21/12/13 Sat)
+    100 Tell the whole world all about A-P and be proud = Wait(bits above,21/12/13 Sat).

@@ -21,7 +21,7 @@ C Prepare Intercession =due(sun) ToDo(16/12/13 mon) //I'd better hurry up
 ===================================================================================
 # Reminders
 
-## Short Terms
+## Short Term
 
 W 26/12/2013 Thu - Remind A. Smith if(TaskA, !Done)	//! is a negation so !Done = "Not Done"
 C 26/12/2013 Thu - Remind P. Morales if(TaskB, !Done)

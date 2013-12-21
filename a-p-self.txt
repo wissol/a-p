@@ -1,0 +1,15 @@
+//The A-P language Flow document, showing what's to be done
+Routine Tasks
+    Update Readme.md
+
+A-P language
+	10 Definitions = Done(20/12/2013, Fri)
+    20 A-P owns Flow document = Done(21/12/13 Sat) //This file
+    30 Flow document example = ToDo(21/12/13 Sat)
+    40 Flow document format = ToDo(21/12/13 Sat)
+    50 Memory Example = ToDo(21/12/13 Sat)
+    60 Memory Format = ToDo(21/12/13 Sat)
+    70 Notes Example = ToDo(21/12/13 Sat)
+    80 Notes Format = ToDo(21/12/13 Sat)
+    90 Translate to Spanish = Wait(bits above,21/12/13 Sat)
+    100 Tell the whole world all about A-P and be proud = Wait(bits above,21/12/13 Sat)

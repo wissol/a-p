@@ -53,7 +53,7 @@
 <dt>Flow</dt>
 <dd>This document contains the information of the all <em>active bits</em></dd>
 
-<dt>Memory</dt>
+<dt>Log</dt>
 <dd>This document gathers in chronological order all the <em>completed</em> <em>projects</em> which the user considers worthy to be kept</dd>
 
 <dt>Notes</dt>

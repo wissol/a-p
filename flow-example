@@ -1,0 +1,84 @@
+# Focus
+
+P a-p Productivity Language
+
+===================================================================================
+
+# Routine Tasks
+
+## Daily Routines
+-----------------------------------------------------------------------------------
+
+P Run 3 km = Done(21/12/13 Sat) //dates are in day/month/year + name format 
+P Study at Treehouse = Done(21/12/13 Sat)
+
+# Weekly Routines
+-----------------------------------------------------------------------------------
+
+W Check "In Box" = due(mon-fri) Done(20/12/13 fri) //this task is due monday to friday
+C Prepare Intercession =due(sun) ToDo(16/12/13 mon) //I'd better hurry up
+
+===================================================================================
+# Reminders
+
+## Short Terms
+
+W 26/12/2013 Thu - Remind A. Smith if(TaskA, !Done)	//! is a negation so !Done = "Not Done"
+C 26/12/2013 Thu - Remind P. Morales if(TaskB, !Done)
+
+-----------------------------------------------------------------------------------
+## Long Term
+
+W 16/01/2014 Thu 17:00 - Attend Webinar, see Email/Webinar Confirmation: The Platform for Building Great Software
+P 03/02/2014 Mon - Remind B. Wolzniak, if(Payment Rent, !Done)
+===================================================================================
+
+# Perhaps
+
+P Read "C++ for kindergarten children"
+
+===================================================================================
+
+# Projects 
+
+P A-P language
+   10 Definitions = Done(20/12/2013, Fri)
+   20 A-P owns Flow document = Done(21/12/13 Sat) //This file
+   30 Flow document example = Done(21/12/13 Sat)
+   40 Flow document format = ToDo(21/12/13 Sat)
+   50 Memory Example = ToDo(21/12/13 Sat)
+   60 Memory Format = ToDo(21/12/13 Sat)
+   70 Notes Example = ToDo(21/12/13 Sat)
+   80 Notes Format = ToDo(21/12/13 Sat)
+   90 Translate to Spanish = Wait(bits above,21/12/13 Sat)
+   100 Tell the whole world all about A-P and be proud = Wait(bits above,21/12/13 Sat) 
+
+P Find the answer the Ultimate Question of Life, the Universe, and Everything
+    10 Ask Super Computer =ToDo(21/12/13 Sat)
+    20 Multiply otput in base 13 =Wait(bits above,21/12/13 Sat)
+    100 Publish the secret in a famous novel and pretend it's all a joke = Wait(bits above,21/12/13 Sat)
+
+===================================================================================
+# Key 
+
+P Personal
+
+C Church
+
+W Work
+
+Due(date) Deadline
+Done(date) This bit was done 
+
+Wait(someone, something, date) 
+    This bit is waiting for someone to do something since "date". 
+    "Someone" defaults to self, "something" defaults to "bits above", date should never be missing)
+
+// Single Line Comment
+<< Multiple line
+Comment >>
+
+# Section
+## Subsection
+### Sub-subsection, and so forth
+

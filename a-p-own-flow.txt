@@ -9,7 +9,7 @@ A-P language
         40 Flow document format = ToDo(21/12/13 Sat)
         50 Log Example = Done(21/12/13 Sat)
         60 Log Format = ToDo(21/12/13 Sat)
-        70 Notes Example = ToDo(21/12/13 Sat)
+        70 Notes Example = Done(23/12/13 Mon)
         80 Notes Format = ToDo(21/12/13 Sat)
         90 Translate to Spanish = Wait(bits above,21/12/13 Sat)
         100 Tell the whole world all about A-P and be proud = Wait(bits above,21/12/13 Sat) 

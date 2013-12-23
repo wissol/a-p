@@ -4,7 +4,7 @@ Routine Tasks
 
 A-P language
         10 Definitions = Done(20/12/2013, Fri)
-        20 A-P owns Flow document = Done(21/12/13 Sat) //This file
+        20 A-P own Flow document = Done(21/12/13 Sat) //This file
         30 Flow document example = Done(21/12/13 Sat)
         40 Flow document format = ToDo(21/12/13 Sat)
         50 Log Example = Done(21/12/13 Sat)

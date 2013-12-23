@@ -1,0 +1,54 @@
+//None of these sections are required. Use or delete them as needed.
+
+//Short Format: * Name or Id | Summary | Link or Location | #Tags | Date Added //Comments
+
+//Extended Format
+
+//* Name - Starts
+//
+// Summary
+//
+// ------------
+// Content (Optional)
+// ------------
+//
+// Link
+// 
+// #tags
+//
+// //comments
+//
+//* Name - Ends
+
+# Contacts
+//Your usual contacts, useful if you lack a proper contact app
+
+
+
+* Name | What s/he does  | Phone | Email | Anything else | Date Added | #tags //Comments
+* Pip |  Marketing Boss | 555-555551 | pip@example.com | 26/12/2013 Thu | #marketing
+* Pop | Makes coffee | 555-555552 | pop@example.com | 26/12/2013 Thu | #newbie //He doesn't check email that often
+...
+
+# Reference Material
+
+Name | What's all about | Link or Location | Date Added //Comments
+
+## Prooductivity
+
+* HTWPC | How to Deal with pesky clients | http://htwpc.example.com | 20/12/2013 Fri 
+* GTD | David Allen's Getting Thing Done | Productivity Shelf | 20/12/2013 Fri //If it's not where it should, ask Pop
+
+## Spirituality
+
+* Common Worship - Starts
+
+A collection of prayers, liturgy material and sundry things of that sort compiled for the use of the Church of England in modern times,
+
+Your nearest vicar and/or parish
+
+20/12/2013
+
+//Red cover
+
+* Common Worship - Ends

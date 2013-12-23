@@ -1,0 +1,19 @@
+<<This is the alternative compact version of the log. Notice each project begins with the full date folled by a colon. If relevant, add the time it was completed>>
+
+22/12/13 Sun: P Read Tad Waddington's "Lasting Contribution" //Great ideas, will post on my blog
+23/12/13 Mon: P Finished Christmas Shopping
+23/12/13 Mon: W Report Example_It_Is //Dropbox/Reports/2014
+23/12/13 Mon: W "Another_web_app" FrontEnd design
+26/12/13 Thu: W Report It_is_Another_Example //sent as physical copy, as required by supervirsor.
+26/12/13 Thu: W Proposal #3435 //client chose proposal #3434
+26/12/13 Thu: C Prepared Intercessions //I will be using as new template
+26/12/13 Thu: P An example project <<This is a multiple line comment. Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dignissim mauris a dolor ullamcorper, eu iaculis sem dignissim. Integer non tincidunt enim. Donec eu dictum quam. Nulla vitae nibh ultrices, bibendum erat eu, lacinia nibh. Curabitur volutpat non odio vel viverra. Cras sed semper sapien. Maecenas id nisi varius, varius lacus vel, sagittis tortor.>>
+
+Keys
+====
+P Personal
+C Church
+W Work
+// Comments
+<<Multiple line 
+comment>>
